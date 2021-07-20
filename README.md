@@ -3,7 +3,7 @@
 I designed cart page for the swag of India website. In this webpage I created cart tab so that when clicking on the cart icon, the product gets added to the cart and its shows  how many products added and what product added to the cart and by clickingon the cart tab it shows the details of the product whether you can add as many product or you can remove the product from the cart.
 The screenshot or by clicking on the website link shows the detailed information.
 
-please check my webpage here : 
+please check my webpage here : https://vigneshmanimaran.github.io/cart.github.io/
 
 Here I attched the screenshots of the webpage
 
